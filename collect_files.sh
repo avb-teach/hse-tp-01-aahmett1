@@ -37,3 +37,4 @@ copy_dir() {
 }
 
 copy_dir "$input_dir" "$output_dir" 0
+
